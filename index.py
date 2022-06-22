@@ -2,7 +2,7 @@ ganso = input(int("inserte numero: "))
 pato=3
     if ganso > pato
     print("bien ahi")
-    elif
+   # elif
     #print("mal ahi")
 
 
