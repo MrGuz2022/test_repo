@@ -3,7 +3,7 @@ pato=3
     if ganso > pato
     print("bien ahi")
    # elif
-    #print("mal ahi")
+    #print("mal ahi") holaaaaaaa       
 
 
 
